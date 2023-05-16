@@ -1,0 +1,46 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Bootcamp Metrics Dashboard",
+    "tags": [ "templated" ],
+    "timezone": "browser",
+    "panels": [
+      {
+        "title": "Engagement Metrics",
+        "type": "graph",
+        "datasource": "default",
+        "target": {
+          "refId": "A",
+          "type": "timeserie",
+          "metric": "engagement_metric",
+          "legendFormat": "{{instance}}"
+        }
+      },
+      {
+        "title": "Learning Goals Metrics",
+        "type": "graph",
+        "datasource": "default",
+        "target": {
+          "refId": "B",
+          "type": "timeserie",
+          "metric": "learning_goals_metric",
+          "legendFormat": "{{instance}}"
+        }
+      },
+      {
+        "title": "Feedback Metrics",
+        "type": "graph",
+        "datasource": "default",
+        "target": {
+          "refId": "C",
+          "type": "timeserie",
+          "metric": "feedback_metric",
+          "legendFormat": "{{instance}}"
+        }
+      }
+    ],
+    "schemaVersion": 16,
+    "version": 0
+  },
+  "overwrite": false
+}
