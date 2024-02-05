@@ -1,6 +1,6 @@
 # AI LLM Agent System
 
-The AI LLM Agent System is a comprehensive system designed to automate various aspects of a learning bootcamp, including content delivery, interaction, assignments, and feedback. This system leverages the power of AI and machine learning to provide personalized, efficient, and effective learning experiences.
+The AI LLM Agent System is a comprehensive system designed to automate various aspects of a learning bootcamp, including content delivery, interaction, assignments, and feedback. This system leverages the power of AI and machine learning to provide personalized, efficient, and effective learning experiences. This project is a work in progress and much of the functionality still needs to be developed. 
 
 ## Table of Contents
 - [Getting Started](#getting-started)
