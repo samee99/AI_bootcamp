@@ -23,7 +23,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/samee99/ai-llm-agent-system.git
 
 2. Install the necessary Python libraries:
 pip install -r requirements.txt
